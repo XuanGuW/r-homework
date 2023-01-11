@@ -19,7 +19,7 @@ y <- 8
 pi.hat <-y/n # (estimate of pi)
 pi.hat
 
-se.pi.hat <- sqrt((pi.hat)*(1-pi.hat)/n) # FILL IN HERE (se of pi.hat)
+se.pi.hat <- sqrt((pi.hat)*(1-pi.hat)/n) #  (se of pi.hat)
 se.pi.hat
 
 # calculate 95% confidence interval based on normal approximation
